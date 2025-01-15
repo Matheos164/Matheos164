@@ -19,7 +19,7 @@ I'm always open to learning, collaborating, and making new connections!
 <img src="https://github.com/user-attachments/assets/dfbd18a5-249e-466a-ab33-b4caf1d5f9d5" alt="C#" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/e42be89d-ac0d-4f2e-8f5d-2b754f2c2098" alt="C++" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/1f40726b-ecbb-43ff-9967-4d13c9b1e8f5" alt="React" width="80" height="70">
-#### + More
+####+ More
 
 
 
