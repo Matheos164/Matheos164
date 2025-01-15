@@ -13,7 +13,7 @@ I'm always open to learning, collaborating, and making new connections!
 ### Languages I'm Experianced With💬
 <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/3b50f80d-98db-4f08-9d09-0386b47ea740" alt="Java" width="80" height="80">
-<img src="https://github.com/user-attachments/assets/86f0642c-c2f9-433a-abf6-d57935cb3ed7" alt="Java" width="80" height="80">
+<img src="![image](https://github.com/user-attachments/assets/fecb96c8-0080-442e-8efb-3603365472bd)" alt="Java" width="80" height="80">
 
 
 
