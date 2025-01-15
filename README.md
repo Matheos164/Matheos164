@@ -6,7 +6,7 @@ My projects include a 2D space shooter game, a multi-page Valorant Info React Na
 I thrive in collaborative, team-driven environments and love tackling challenges that drive innovation and challenge my knowledge.
 I'm always open to learning, collaborating, and making new connections!
 
-### Mohawk College Graduate With:
+### Mohawk College Graduate🏫
 -  Software Development Advanced Diploma 📜
 -  Software Development Diploma 📃
 
@@ -21,12 +21,12 @@ I'm always open to learning, collaborating, and making new connections!
 <img src="https://github.com/user-attachments/assets/1f40726b-ecbb-43ff-9967-4d13c9b1e8f5" alt="React" width="80" height="70">
 <img src="https://github.com/user-attachments/assets/d7dea73f-a9c1-4dda-acb5-9a07d75a0527" alt="Node" width="70" height="75">
 
-
 ### AI Tools I Know🤖
 -  RegEx & Fuzzy RegEx  <img src="https://github.com/user-attachments/assets/569ce43f-91f6-47a5-bb6e-ff8b287dec7f" alt="Python" width="20" height="20">
 -  SpaCy  <img src="https://github.com/user-attachments/assets/b0d51d03-6b67-44e5-871e-a2de5933bb2a" alt="SpaCy" width="40" height="20">
 -  NLP  <img src="https://github.com/user-attachments/assets/45a9eacd-73b4-4635-afe0-d32e17e70017" alt="NLP" width="30" height="20">
 -  GPT Prompt Engineering  <img src="https://github.com/user-attachments/assets/2cd67267-4752-47d4-988a-7acbe363ea42" alt="GPT" width="20" height="20">
 
-
+### My Socials🤳
+<img src="https://github.com/user-attachments/assets/2aaee9ab-4e04-439d-908c-cdf12abab78f" href="www.linkedin.com/in/matheos-amanuel-81335b241" alt="GPT" width="20" height="20">
 
