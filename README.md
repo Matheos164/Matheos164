@@ -7,8 +7,8 @@ I thrive in collaborative, team-driven environments and love tackling challenges
 I'm always open to learning, collaborating, and making new connections!
 
 ### Mohawk College Graduate With:
-Software Development Advanced Diploma 📜
-Software Development Diploma 📃
+-  Software Development Advanced Diploma 📜
+-  Software Development Diploma 📃
 
 ### Languages I'm Experianced With💬
 <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="80" height="80">
