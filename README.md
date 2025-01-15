@@ -11,6 +11,6 @@ I'm always open to learning, collaborating, and making new connections!
 -  Software Development Diploma 📃
 
 ### Languages I Know💬
-<img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="80" height="80">
 
 
