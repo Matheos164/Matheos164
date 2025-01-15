@@ -25,7 +25,7 @@ I'm always open to learning, collaborating, and making new connections!
 ### AI Tools I Know🤖
 -  RegEx & Fuzzy RegEx 
 -  SpaCy
--  Statistical NLP <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="40" height="40">
+-  Statistical NLP <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="15" height="15">
 -  GPT Prompt Engineering
 
 
