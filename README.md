@@ -28,5 +28,5 @@ I'm always open to learning, collaborating, and making new connections!
 -  GPT Prompt Engineering  <img src="https://github.com/user-attachments/assets/2cd67267-4752-47d4-988a-7acbe363ea42" alt="GPT" width="20" height="20">
 
 ### My Socials🤳
-[<img src="https://github.com/user-attachments/assets/2aaee9ab-4e04-439d-908c-cdf12abab78f" alt="GPT" width="100" height="100">](https://www.linkedin.com/in/matheos-amanuel-81335b241)
+[<img src="https://github.com/user-attachments/assets/2aaee9ab-4e04-439d-908c-cdf12abab78f" alt="LinkedIn" width="75" height="75">](https://www.linkedin.com/in/matheos-amanuel-81335b241)
 
