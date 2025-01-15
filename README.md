@@ -19,9 +19,14 @@ I'm always open to learning, collaborating, and making new connections!
 <img src="https://github.com/user-attachments/assets/dfbd18a5-249e-466a-ab33-b4caf1d5f9d5" alt="C#" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/e42be89d-ac0d-4f2e-8f5d-2b754f2c2098" alt="C++" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/1f40726b-ecbb-43ff-9967-4d13c9b1e8f5" alt="React" width="80" height="70">
-<img src="https://github.com/user-attachments/assets/d7dea73f-a9c1-4dda-acb5-9a07d75a0527" alt="React" width="70" height="75">
+<img src="https://github.com/user-attachments/assets/d7dea73f-a9c1-4dda-acb5-9a07d75a0527" alt="Node" width="70" height="75">
 
-### Languages I'm Experianced With💬
+
+### AI Tools I Know🤖
+-  RegEx & Fuzzy RegEx 
+-  SpaCy
+-  Statistical NLP <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="40" height="40">
+-  GPT Prompt Engineering
 
 
 
