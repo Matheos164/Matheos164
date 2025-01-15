@@ -23,10 +23,10 @@ I'm always open to learning, collaborating, and making new connections!
 
 
 ### AI Tools I Know🤖
--  RegEx & Fuzzy RegEx  <img src="https://github.com/user-attachments/assets/569ce43f-91f6-47a5-bb6e-ff8b287dec7f" alt="Python" width="30" height="30">
--  SpaCy  <img src="https://github.com/user-attachments/assets/b0d51d03-6b67-44e5-871e-a2de5933bb2a" alt="SpaCy" width="30" height="30">
--  NLP  <img src="https://github.com/user-attachments/assets/45a9eacd-73b4-4635-afe0-d32e17e70017" alt="NLP" width="30" height="30">
--  GPT Prompt Engineering  <img src="https://github.com/user-attachments/assets/2cd67267-4752-47d4-988a-7acbe363ea42" alt="GPT" width="30" height="30">
+-  RegEx & Fuzzy RegEx  <img src="https://github.com/user-attachments/assets/569ce43f-91f6-47a5-bb6e-ff8b287dec7f" alt="Python" width="20" height="20">
+-  SpaCy  <img src="https://github.com/user-attachments/assets/b0d51d03-6b67-44e5-871e-a2de5933bb2a" alt="SpaCy" width="40" height="20">
+-  NLP  <img src="https://github.com/user-attachments/assets/45a9eacd-73b4-4635-afe0-d32e17e70017" alt="NLP" width="30" height="20">
+-  GPT Prompt Engineering  <img src="https://github.com/user-attachments/assets/2cd67267-4752-47d4-988a-7acbe363ea42" alt="GPT" width="20" height="20">
 
 
 
