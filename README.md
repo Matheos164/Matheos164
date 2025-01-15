@@ -14,6 +14,7 @@ I'm always open to learning, collaborating, and making new connections!
 <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/3b50f80d-98db-4f08-9d09-0386b47ea740" alt="Java" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/fecb96c8-0080-442e-8efb-3603365472bd" alt="HTML" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/b0974a57-3728-497e-b80c-4fb6ecea2f91" alt="HTML&CSS&JS" width="80" height="80">
 
 
 
