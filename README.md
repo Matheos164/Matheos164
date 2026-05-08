@@ -11,6 +11,7 @@ I'm always open to learning, collaborating, and making new connections!
 -  Software Development Diploma 📃
 
 ### Languages I'm Experianced With💬
+<p align="left">
 <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/3b50f80d-98db-4f08-9d09-0386b47ea740" alt="Java" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/b0974a57-3728-497e-b80c-4fb6ecea2f91" alt="HTML&CSS&JS" width="180" height="100">
@@ -19,6 +20,7 @@ I'm always open to learning, collaborating, and making new connections!
 <img src="https://github.com/user-attachments/assets/dfbd18a5-249e-466a-ab33-b4caf1d5f9d5" alt="C#" width="80" height="80">
 <img src="https://github.com/user-attachments/assets/1f40726b-ecbb-43ff-9967-4d13c9b1e8f5" alt="React" width="80" height="70">
 <img src="https://github.com/user-attachments/assets/d7dea73f-a9c1-4dda-acb5-9a07d75a0527" alt="Node" width="70" height="75">
+</p>
 
 ### AI Tools I Know🤖
 -  RegEx & Fuzzy RegEx  <img src="https://github.com/user-attachments/assets/569ce43f-91f6-47a5-bb6e-ff8b287dec7f" alt="Python" width="20" height="20">
