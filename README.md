@@ -1,33 +1,40 @@
 # Hi 👋, I'm Matheos
 
 ## About Me 👨‍💻
-I am a developer with a background in IT Support and a passion for creating engaging and efficient software.
+Junior Software Developer, IT Support Specialist, and Mohawk College dual-diploma graduate, I apply a strong programming foundation in Python, C#, and PHP to build full-stack web applications, backend systems, and 2D games. Passionate about creating exceptional user experiences and maximizing system uptime.
+
+<!-- <p> I am a developer with a background in IT Support and a passion for creating engaging and efficient software. 
 My projects include a 2D space shooter game, a multi-page Valorant Info React Native app, and full-stack Employee Finder MVC web applications.
 I thrive in collaborative, team-driven environments and love tackling challenges that drive innovation and challenge my knowledge.
-I'm always open to learning, collaborating, and making new connections!
+I'm always open to learning, collaborating, and making new connections!</p>-->
 
-### Mohawk College Graduate🏫
+### Mohawk College Graduate 🏫
 -  Software Development Advanced Diploma 📜
 -  Software Development Diploma 📃
 
-### Languages I'm Experianced With💬
-<p align="left">
-<img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" width="80" height="80">
-<img src="https://github.com/user-attachments/assets/3b50f80d-98db-4f08-9d09-0386b47ea740" alt="Java" width="80" height="80">
-<img src="https://github.com/user-attachments/assets/b0974a57-3728-497e-b80c-4fb6ecea2f91" alt="HTML&CSS&JS" width="180" height="100">
-<img src="https://github.com/user-attachments/assets/306a66a8-63ce-479b-9b27-e437e55d705b" alt="PHP" width="80" height="80">
-<img src="https://github.com/user-attachments/assets/f7f4bbef-175e-4ee0-8060-6f1c73f7b6ff" alt="SQL" width="120" height="100">
-<img src="https://github.com/user-attachments/assets/dfbd18a5-249e-466a-ab33-b4caf1d5f9d5" alt="C#" width="80" height="80">
-<img src="https://github.com/user-attachments/assets/1f40726b-ecbb-43ff-9967-4d13c9b1e8f5" alt="React" width="80" height="70">
-<img src="https://github.com/user-attachments/assets/d7dea73f-a9c1-4dda-acb5-9a07d75a0527" alt="Node" width="70" height="75">
-</p>
+### Languages I'm Experianced With 💬
+<div style="display: flex; flex-direction: row; pointer-events: none;">
+  <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" height="60">&nbsp;
+  <img src="https://github.com/user-attachments/assets/3b50f80d-98db-4f08-9d09-0386b47ea740" alt="Java" height="60">&nbsp;
+  <img src="https://github.com/user-attachments/assets/b0974a57-3728-497e-b80c-4fb6ecea2f91" alt="HTML&CSS&JS" height="60">&nbsp;
+  <img src="https://github.com/user-attachments/assets/306a66a8-63ce-479b-9b27-e437e55d705b" alt="PHP" height="60">&nbsp;
+  <img src="https://github.com/user-attachments/assets/f7f4bbef-175e-4ee0-8060-6f1c73f7b6ff" alt="SQL" height="60">&nbsp;
+  <img src="https://github.com/user-attachments/assets/dfbd18a5-249e-466a-ab33-b4caf1d5f9d5" alt="C#" height="60">&nbsp;
+  <img src="https://github.com/user-attachments/assets/1f40726b-ecbb-43ff-9967-4d13c9b1e8f5" alt="React" height="60">&nbsp;
+  <img src="https://github.com/user-attachments/assets/d7dea73f-a9c1-4dda-acb5-9a07d75a0527" alt="Node" height="60">
+</div>
 
-### AI Tools I Know🤖
--  RegEx & Fuzzy RegEx  <img src="https://github.com/user-attachments/assets/569ce43f-91f6-47a5-bb6e-ff8b287dec7f" alt="Python" width="20" height="20">
--  SpaCy  <img src="https://github.com/user-attachments/assets/b0d51d03-6b67-44e5-871e-a2de5933bb2a" alt="SpaCy" width="40" height="20">
--  NLP  <img src="https://github.com/user-attachments/assets/45a9eacd-73b4-4635-afe0-d32e17e70017" alt="NLP" width="30" height="20">
--  GPT Prompt Engineering  <img src="https://github.com/user-attachments/assets/2cd67267-4752-47d4-988a-7acbe363ea42" alt="GPT" width="20" height="20">
+### AI Tools I Know 🤖
+-  RegEx & Fuzzy RegEx <img src="https://github.com/user-attachments/assets/569ce43f-91f6-47a5-bb6e-ff8b287dec7f" alt="Python" width="20" height="20">
+-  SpaCy <img src="https://github.com/user-attachments/assets/b0d51d03-6b67-44e5-871e-a2de5933bb2a" alt="SpaCy" width="40" height="20">
+-  NLP <img src="https://github.com/user-attachments/assets/45a9eacd-73b4-4635-afe0-d32e17e70017" alt="NLP" width="30" height="20">
+-  GPT Prompt Engineering <img src="https://github.com/user-attachments/assets/2cd67267-4752-47d4-988a-7acbe363ea42" alt="GPT" width="20" height="20">
 
 ### My Socials🤳
-[<img src="https://github.com/user-attachments/assets/2aaee9ab-4e04-439d-908c-cdf12abab78f" alt="LinkedIn" width="50" height="50">](https://www.linkedin.com/in/matheos-amanuel-81335b241)
+<a href="https://www.linkedin.com/in/matheos-amanuel-81335b241">
+  <img src="https://github.com/user-attachments/assets/2aaee9ab-4e04-439d-908c-cdf12abab78f" alt="LinkedIn" width="50">
+</a>&nbsp;
+<a href="https://profile-project-ochre.vercel.app">
+  <img src="https://cdn-icons-png.flaticon.com/512/7757/7757638.png" alt="Portfolio" width="50">
+</a>
 
