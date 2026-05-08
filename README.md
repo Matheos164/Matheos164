@@ -12,7 +12,7 @@ I'm always open to learning, collaborating, and making new connections!</p>-->
 -  Software Development Advanced Diploma 📜
 -  Software Development Diploma 📃
 
-### Languages I'm Experianced With 💬
+### Languages I'm Experienced With 💬
 <div style="display: flex; flex-direction: row; pointer-events: none;">
   <img src="https://github.com/user-attachments/assets/5f2d8771-7220-4d2a-971e-e88487d4262f" alt="Python" height="60">&nbsp;
   <img src="https://github.com/user-attachments/assets/3b50f80d-98db-4f08-9d09-0386b47ea740" alt="Java" height="60">&nbsp;
